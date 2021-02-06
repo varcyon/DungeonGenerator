@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 421fcd85c24eaf540bdd253564bad725, type: 3}
+  m_Name: LevelEditorPrefabDB
+  m_EditorClassIdentifier: 
+  selectedBlock: {fileID: 7766789306968490986, guid: 256e278832a1d254faf9065f4972a894,
+    type: 3}
+  blocks:
+  - blockName: Small  Block
+    objectTags: 1
+    prefab: {fileID: 7766789306968490986, guid: 256e278832a1d254faf9065f4972a894,
+      type: 3}
+  - blockName: Medium  Block
+    objectTags: 1
+    prefab: {fileID: 7766789306968490986, guid: 7270aef2a5dec764b92a544176f4afdc,
+      type: 3}
+  - blockName: Basic Block
+    objectTags: 1
+    prefab: {fileID: 7766789306968490986, guid: 5c120554e39e554429a6bd6cf87487c3,
+      type: 3}
+  - blockName: Corner Small
+    objectTags: 1
+    prefab: {fileID: 1154302597531655177, guid: 6a194c72732193c4b94088de6eb712a4,
+      type: 3}
+  - blockName: Corner Medium
+    objectTags: 1
+    prefab: {fileID: 1154302597531655177, guid: 86f445d4ec3e76440bd0991dafef80d2,
+      type: 3}
+  - blockName: Corner Large
+    objectTags: 1
+    prefab: {fileID: 1154302597531655177, guid: 5edfe5233b3eddb4096be978411413d5,
+      type: 3}
